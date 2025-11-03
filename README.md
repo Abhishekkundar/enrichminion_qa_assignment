@@ -15,4 +15,4 @@ This repository contains my QA assignment for Brainholics.
 - Markdown for documentation  
 
 ## Author
-**Abhishek S**
+**Abhishek**
